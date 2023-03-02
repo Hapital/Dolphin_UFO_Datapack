@@ -13,11 +13,13 @@ recipe
 
 shell = ▲ ,minecart = ■ ,iron = ● ,spyglass = ★
 
-|-------|
-|   ★  |
-| ● ■ ● |
-|   ▲   |
-|-------|
+1 2 3
+4 5 6
+7 8 9
+
+1 ★ 3
+● ■  ●
+7 ▲ 9
 
 Wow !! I just get SpawnEGG!!!!!!!!!!
 
