@@ -1,0 +1,16 @@
+{
+    "criteria": {
+      "requirement": {
+        "trigger": "minecraft:player_hurt_entity",
+        "conditions": {
+          "entity": {
+            "type": "minecraft:interaction",
+            "nbt": "{Tags:[\"dlp_ufo_inta\"]}"
+          }
+        }
+      }
+    },
+    "rewards": {
+      "function": "hpt_dolphin_ufo:dlp_lc"
+    }
+  }  

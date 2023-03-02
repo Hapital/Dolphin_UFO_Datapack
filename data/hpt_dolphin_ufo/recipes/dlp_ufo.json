@@ -1,0 +1,25 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      " C ",
+      "ZXZ",
+      " # "
+    ],
+    "key": {
+      "#": {
+        "item": "minecraft:shulker_shell"
+      },
+      "X": {
+        "item": "minecraft:minecart"
+      },
+      "Z": {
+        "item": "minecraft:iron_ingot"
+      },
+      "C": {
+        "item": "minecraft:spyglass"
+      }
+    },
+    "result": {
+      "item": "minecraft:chest"
+    }
+  }

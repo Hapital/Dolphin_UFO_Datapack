@@ -1,0 +1,16 @@
+{
+  "criteria": {
+    "unlock": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "hpt_dolphin_ufo:dlp_ufo"
+      }
+    }
+  },
+  "rewards": {
+    "function": "hpt_.dolphin_ufo:craft_ufo"
+  },
+  "rewards": {
+    "function": "ad:fa"
+  }
+}
